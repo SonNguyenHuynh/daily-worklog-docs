@@ -26,7 +26,7 @@ The app requests the `read:jira-work` Jira scope and uses Forge's authenticated 
 
 ## Privacy rights and requests
 
-Depending on applicable law, you may have rights to request access to, correction of, deletion of, or restrictions on personal information. Daily Worklog does not maintain a separate persistent copy of Jira worklog data. Requests concerning Jira records should generally be directed to your Jira site administrator or Atlassian; for questions about the app's processing, contact us at **nguyenhuynhson140198@gmail.com**. We will respond as required by applicable law and may need to verify your request or direct you to the party that controls the relevant data.
+Depending on applicable law, you may have rights to request access to, correction of, deletion of, or restrictions on personal information. Daily Worklog does not maintain a separate persistent copy of Jira worklog data. Requests concerning Jira records should generally be directed to your Jira site administrator or Atlassian; for questions about the app's processing, contact us at **huynhson140198@gmail.com**. We will respond as required by applicable law and may need to verify your request or direct you to the party that controls the relevant data.
 
 ## Children and changes
 
@@ -34,6 +34,6 @@ The app is designed for use with Jira Cloud by organizations and their authorize
 
 ## Contact
 
-Privacy questions: **nguyenhuynhson140198@gmail.com**
+Privacy questions: **huynhson140198@gmail.com**
 
 This policy describes the app's current design. It is not a representation that the app or its publisher is certified or compliant with a particular legal regime. Please review it for your circumstances and applicable laws before publication.

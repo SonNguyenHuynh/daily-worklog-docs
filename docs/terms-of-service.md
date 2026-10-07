@@ -36,6 +36,6 @@ To the maximum extent permitted by law, our total liability for claims relating 
 
 We may update these terms by posting a revised version at this URL. The updated date above indicates when they were last revised. Continued use after the revised terms take effect means you accept them to the extent permitted by law.
 
-Questions or support: **nguyenhuynhson140198@gmail.com**
+Questions or support: **huynhson140198@gmail.com**
 
 These terms are a general draft, not legal advice. Their enforceability depends on your location and circumstances; obtain appropriate legal review before publication.
