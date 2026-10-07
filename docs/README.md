@@ -27,7 +27,7 @@ Daily Worklog requests the `read:jira-work` permission and accesses Jira as the 
 
 The app processes project and issue identifiers, worklog dates and durations, and author account IDs, display names, and Atlassian-hosted avatar URLs to create the report. Report data is held in page memory while you view it; the app does not keep a separate persistent copy in developer-controlled storage. Atlassian's Jira and Forge services process data under their own terms and privacy notices.
 
-See the [Privacy Policy](https://songuyenhuynh.github.io/daily-worklog-docs/privacy-policy.html) and [Terms of Service](https://songuyenhuynh.github.io/daily-worklog-docs/terms-of-service.html).
+See the [Privacy Policy](https://sonnguyenhuynh.github.io/daily-worklog-docs/privacy-policy.html) and [Terms of Service](https://sonnguyenhuynh.github.io/daily-worklog-docs/terms-of-service.html).
 
 ## Troubleshooting
 
@@ -38,6 +38,6 @@ See the [Privacy Policy](https://songuyenhuynh.github.io/daily-worklog-docs/priv
 
 ## Support
 
-Email [nguyenhuynhson140198@gmail.com](mailto:nguyenhuynhson140198@gmail.com) with bug reports or feature requests. Support is available Monday through Friday, and we aim to acknowledge inquiries within 48 hours. This is a response target, not a guaranteed resolution time.
+Email [huynhson140198@gmail.com](mailto:huynhson140198@gmail.com) with bug reports or feature requests. Support is available Monday through Friday, and we aim to acknowledge inquiries within 48 hours. This is a response target, not a guaranteed resolution time.
 
-See the [Support page](https://songuyenhuynh.github.io/daily-worklog-docs/support.html).
+See the [Support page](https://sonnguyenhuynh.github.io/daily-worklog-docs/support.html).
