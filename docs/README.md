@@ -27,7 +27,7 @@ Daily Worklog requests the `read:jira-work` permission and accesses Jira as the 
 
 The app processes project and issue identifiers, worklog dates and durations, and author account IDs, display names, and Atlassian-hosted avatar URLs to create the report. Report data is held in page memory while you view it; the app does not keep a separate persistent copy in developer-controlled storage. Atlassian's Jira and Forge services process data under their own terms and privacy notices.
 
-See the [Privacy Policy](https://sonnguyenhuynh.github.io/daily-worklog-docs/privacy-policy.html) and [Terms of Service](https://sonnguyenhuynh.github.io/daily-worklog-docs/terms-of-service.html).
+Read the [Privacy Policy](https://sonnguyenhuynh.github.io/daily-worklog-docs/privacy-policy.html) for privacy practices, the [Security page](https://sonnguyenhuynh.github.io/daily-worklog-docs/security.html) for security practices, and the [Terms of Service](https://sonnguyenhuynh.github.io/daily-worklog-docs/terms-of-service.html) for the terms governing use of the app.
 
 ## Troubleshooting
 
