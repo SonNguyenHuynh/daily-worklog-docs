@@ -8,7 +8,7 @@ Support is available Monday through Friday, excluding public holidays. We aim to
 
 ## Report a bug
 
-Email **huynhson140198@gmail.com** with:
+Email **sonnguyenappssupport@gmail.com** with:
 
 - Your Jira site URL and the app environment, if known
 - The steps needed to reproduce the problem
@@ -19,8 +19,8 @@ Please remove or obscure personal, confidential, or sensitive Jira information f
 
 ## Request a feature
 
-Send your idea to **huynhson140198@gmail.com**. A short description of the problem it would solve and how you expect the feature to work is especially helpful. We review suggestions but do not guarantee implementation.
+Send your idea to **sonnguyenappssupport@gmail.com**. A short description of the problem it would solve and how you expect the feature to work is especially helpful. We review suggestions but do not guarantee implementation.
 
 ## Contact
 
-Support email: **huynhson140198@gmail.com**
+Support email: **sonnguyenappssupport@gmail.com**

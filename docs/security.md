@@ -20,7 +20,7 @@ The Forge app relies on Atlassian's platform for hosting, authentication, and co
 
 ## Vulnerability reports
 
-To report a suspected security issue, contact **huynhson140198@gmail.com**. Include a description and steps to reproduce, but do not include Jira worklog data, API tokens, passwords, or other secrets. We aim to acknowledge support inquiries within 48 hours; this is a response target, not a guaranteed resolution time.
+To report a suspected security issue, contact **sonnguyenappssupport@gmail.com**. Include a description and steps to reproduce, but do not include Jira worklog data, API tokens, passwords, or other secrets. We aim to acknowledge support inquiries within 48 hours; this is a response target, not a guaranteed resolution time.
 
 ## Certifications and assessments
 

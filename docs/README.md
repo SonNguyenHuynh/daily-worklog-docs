@@ -38,6 +38,6 @@ Read the [Privacy Policy](https://sonnguyenhuynh.github.io/daily-worklog-docs/pr
 
 ## Support
 
-Email [huynhson140198@gmail.com](mailto:huynhson140198@gmail.com) with bug reports or feature requests. Support is available Monday through Friday, and we aim to acknowledge inquiries within 48 hours. This is a response target, not a guaranteed resolution time.
+Email [sonnguyenappssupport@gmail.com](mailto:sonnguyenappssupport@gmail.com) with bug reports or feature requests. Support is available Monday through Friday, and we aim to acknowledge inquiries within 48 hours. This is a response target, not a guaranteed resolution time.
 
 See the [Support page](https://sonnguyenhuynh.github.io/daily-worklog-docs/support.html).
